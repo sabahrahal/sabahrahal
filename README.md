@@ -1,5 +1,5 @@
 <h2>It's me, @sabahrahal</h2>
-<p><em>Junior Front-End Developer</br>
+<p><em>Front-End Developer</br>
 </em></p>
 
 
